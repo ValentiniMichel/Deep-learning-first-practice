@@ -1,0 +1,186 @@
+
+
+Activation function RELU 
+Optimizer SGD
+Epoch [1/10], Loss: 0.6396
+Epoch [2/10], Loss: 0.3990
+Epoch [3/10], Loss: 0.3565
+Epoch [4/10], Loss: 0.3295
+Epoch [5/10], Loss: 0.3106
+Epoch [6/10], Loss: 0.2943
+Epoch [7/10], Loss: 0.2802
+Epoch [8/10], Loss: 0.2653
+Epoch [9/10], Loss: 0.2565
+Epoch [10/10], Loss: 0.2448
+Accuracy of the network on the 10000 test images: 87.54 %
+
+
+Optimizer ADAM batch_size 64
+Epoch [1/10], Loss: 0.5731
+Epoch [2/10], Loss: 0.4622
+Epoch [3/10], Loss: 0.4346
+Epoch [4/10], Loss: 0.4102
+Epoch [5/10], Loss: 0.4062
+Epoch [6/10], Loss: 0.3974
+Epoch [7/10], Loss: 0.4039
+Epoch [8/10], Loss: 0.3859
+Epoch [9/10], Loss: 0.3818
+Epoch [10/10], Loss: 0.3692
+Accuracy of the network on the 10000 test images: 85.32 %
+
+
+Optimizer ADAM batch_size 128
+Epoch [1/10], Loss: 0.5525
+Epoch [2/10], Loss: 0.4242
+Epoch [3/10], Loss: 0.3945
+Epoch [4/10], Loss: 0.3818
+Epoch [5/10], Loss: 0.3679
+Epoch [6/10], Loss: 0.3643
+Epoch [7/10], Loss: 0.3516
+Epoch [8/10], Loss: 0.3394
+Epoch [9/10], Loss: 0.3349
+Epoch [10/10], Loss: 0.3311
+Accuracy of the network on the 10000 test images: 86.21 %
+
+
+Optimizer ADAM batch_size 256
+Epoch [1/10], Loss: 0.5786
+Epoch [2/10], Loss: 0.4076
+Epoch [3/10], Loss: 0.3718
+Epoch [4/10], Loss: 0.3463
+Epoch [5/10], Loss: 0.3373
+Epoch [6/10], Loss: 0.3178
+Epoch [7/10], Loss: 0.3163
+Epoch [8/10], Loss: 0.3059
+Epoch [9/10], Loss: 0.3016
+Epoch [10/10], Loss: 0.2883
+Accuracy of the network on the 10000 test images: 86.71 %
+
+---------------------------------------------------------------------
+
+
+Activation Function SELU 
+Optimizer SGD
+Epoch [1/10], Loss: 0.5469
+Epoch [2/10], Loss: 0.4080
+Epoch [3/10], Loss: 0.3753
+Epoch [4/10], Loss: 0.3503
+Epoch [5/10], Loss: 0.3337
+Epoch [6/10], Loss: 0.3154
+Epoch [7/10], Loss: 0.3016
+Epoch [8/10], Loss: 0.2930
+Epoch [9/10], Loss: 0.2792
+Epoch [10/10], Loss: 0.2740
+Accuracy of the network on the 10000 test images: 87.81 %
+
+
+Optimizer ADAM batch_size 64
+Epoch [1/10], Loss: 0.6348
+Epoch [2/10], Loss: 0.5304
+Epoch [3/10], Loss: 0.5354
+Epoch [4/10], Loss: 0.5789
+Epoch [5/10], Loss: 0.4528
+Epoch [6/10], Loss: 0.4482
+Epoch [7/10], Loss: 0.4328
+Epoch [8/10], Loss: 0.4313
+Epoch [9/10], Loss: 0.4231
+Epoch [10/10], Loss: 0.4154
+Accuracy of the network on the 10000 test images: 84.11 %
+
+
+Optimizer ADAM batch_size 128
+Epoch [1/10], Loss: 0.5965
+Epoch [2/10], Loss: 0.4513
+Epoch [3/10], Loss: 0.4273
+Epoch [4/10], Loss: 0.4297
+Epoch [5/10], Loss: 0.3914
+Epoch [6/10], Loss: 0.3811
+Epoch [7/10], Loss: 0.3702
+Epoch [8/10], Loss: 0.3664
+Epoch [9/10], Loss: 0.4904
+Epoch [10/10], Loss: 1.1954
+Accuracy of the network on the 10000 test images: 74.78 %
+
+
+Optimizer ADAM batch_size 256
+Epoch [1/10], Loss: 0.6074
+Epoch [2/10], Loss: 0.4192
+Epoch [3/10], Loss: 0.3738
+Epoch [4/10], Loss: 0.3638
+Epoch [5/10], Loss: 0.3525
+Epoch [6/10], Loss: 0.3388
+Epoch [7/10], Loss: 0.3227
+Epoch [8/10], Loss: 0.3214
+Epoch [9/10], Loss: 0.3180
+Epoch [10/10], Loss: 0.3023
+Accuracy of the network on the 10000 test images: 87.09 %
+
+
+---------------------------------------------------------------------
+
+
+
+Activation Function SIGMOID 
+Optimizer SGD
+Epoch [1/10], Loss: 2.2412
+Epoch [2/10], Loss: 1.1376
+Epoch [3/10], Loss: 0.8087
+Epoch [4/10], Loss: 0.6981
+Epoch [5/10], Loss: 0.6191
+Epoch [6/10], Loss: 0.5622
+Epoch [7/10], Loss: 0.5170
+Epoch [8/10], Loss: 0.4824
+Epoch [9/10], Loss: 0.4543
+Epoch [10/10], Loss: 0.4294
+Accuracy of the network on the 10000 test images: 83.91 %
+
+
+
+Optimizer ADAM batch_size 64
+Epoch [1/10], Loss: 0.7169
+Epoch [2/10], Loss: 0.5585
+Epoch [3/10], Loss: 0.5319
+Epoch [4/10], Loss: 0.5026
+Epoch [5/10], Loss: 0.5252
+Epoch [6/10], Loss: 0.5084
+Epoch [7/10], Loss: 0.5064
+Epoch [8/10], Loss: 0.4941
+Epoch [9/10], Loss: 0.4997
+Epoch [10/10], Loss: 0.4911
+Accuracy of the network on the 10000 test images: 80.64 %
+
+
+Optimizer ADAM batch_size 128
+Epoch [1/10], Loss: 0.7339
+Epoch [2/10], Loss: 0.5239
+Epoch [3/10], Loss: 0.4832
+Epoch [4/10], Loss: 0.4707
+Epoch [5/10], Loss: 0.4500
+Epoch [6/10], Loss: 0.4389
+Epoch [7/10], Loss: 0.4276
+Epoch [8/10], Loss: 0.4249
+Epoch [9/10], Loss: 0.4163
+Epoch [10/10], Loss: 0.4173
+Accuracy of the network on the 10000 test images: 83.80 %
+
+
+Optimizer ADAM batch_size 256
+Epoch [1/10], Loss: 0.7785
+Epoch [2/10], Loss: 0.5014
+Epoch [3/10], Loss: 0.4509
+Epoch [4/10], Loss: 0.4334
+Epoch [5/10], Loss: 0.4122
+Epoch [6/10], Loss: 0.3987
+Epoch [7/10], Loss: 0.3920
+Epoch [8/10], Loss: 0.3910
+Epoch [9/10], Loss: 0.3763
+Epoch [10/10], Loss: 0.3676
+Accuracy of the network on the 10000 test images: 85.06 %
+
+
+---------------------------------------------------------------------
+
+
+
+
+
